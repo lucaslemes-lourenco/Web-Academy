@@ -1,15 +1,13 @@
 html, 
 body {
-  height: 100%;
-}
-body{
   overflow-x: hidden;
+  /* height: 100%; */
 }
 header{
   background-image: url(academy.jpg);
   background-size: cover;
   background-position:top center;
-  height: 100%;  
+  height:429px;  
 }
 .tituloproduto{
   text-align: center;
